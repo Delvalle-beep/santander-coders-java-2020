@@ -1,0 +1,2 @@
+var idade
+var peso
