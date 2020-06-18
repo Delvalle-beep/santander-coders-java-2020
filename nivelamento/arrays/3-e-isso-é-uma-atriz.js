@@ -1,0 +1,1 @@
+Caso não esteja conseguindo é porque deve ser executado com o console em ImageBitmapRenderingContext
